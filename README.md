@@ -1,9 +1,9 @@
 
 <div align="center">
 
-	<h3>
+
 	This software package aims to advise on optimal mineral recovery using a genetic algorithm to simulate separation techniques.
-	</h3>
+
 </div>
 
 
