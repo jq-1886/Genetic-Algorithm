@@ -1,23 +1,8 @@
 
 <div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-    <br>
-	<br>
-	<br>
-	<br>
-	<h1>ACSE-4 Group project of team "Acanthite"</h1>
-	<br>
-	<br>
-	<br>
-	<br>
-    <h1> “ Gormanium Rush ”</h1>
-	<br>
-	<br>
+
 	<h3>
-	This software package aims to advise on optimal Gormanium recovery using a genetic algorithm to simulate separation techniques.
+	This software package aims to advise on optimal mineral recovery using a genetic algorithm to simulate separation techniques.
 	</h3>
 </div>
 
