@@ -78,28 +78,3 @@
 * python
 
 ***
-
-## Editors         
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Devang Patel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Zifan Ding &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Jack Quested&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Jamesson Ipock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Siyi Li&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Yinze Li&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Yunjie Piao&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-***
-
-## Visualization
-
-#### 1. Below shows an example of a 10 cell circuit visualisation with its respective final performance value
-<a href="#"><img src="https://github.com/acse-2020/acse-4-gormanium-rush-acanthite/blob/documentation/images/Post_processing.png?raw=true" width="1200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### 2. Below shows an example of a 25 cell circuit visualisation with its respective final performance value
-<a href="#"><img src="https://github.com/acse-2020/acse-4-gormanium-rush-acanthite/blob/documentation/images/25cells.png?raw=true" width="1200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### 3. Performance changes as the number of units ranging from 5 to 25
-<a href="#"><img src="https://github.com/acse-2020/acse-4-gormanium-rush-acanthite/blob/documentation/images/optimum.png?raw=true" width="800"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
